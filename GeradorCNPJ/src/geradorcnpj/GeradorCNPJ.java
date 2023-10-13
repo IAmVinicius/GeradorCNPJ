@@ -7,6 +7,7 @@ public class GeradorCNPJ {
 
     public static void main(String[] args) {
         Random random = new Random();
+        System.out.println("Hello world");//hello world
         
         // array para armazenar os dígitos do CNPJ
         int[] cnpj = new int[14];
