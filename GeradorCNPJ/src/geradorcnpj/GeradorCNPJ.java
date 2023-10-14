@@ -1,5 +1,10 @@
 
 package geradorcnpj;
+/**
+ * @author Vinícius Desenv
+ * Gerador de CPF validos
+ * Versão 1.1
+ */
 
 import java.util.Random;
 
